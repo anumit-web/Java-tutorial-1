@@ -6,6 +6,3 @@ public class HelloWorld {
         System.out.println("T");
     }
 }
-System.out.println("T");
-    }
-}
